@@ -1,0 +1,13 @@
+.contain{
+    width:40vw;
+    height: 40vh;
+    margin: auto auto;
+    border: solid white 3px;
+    border-radius: 10px;
+    padding: 1vw;
+    box-shadow: 0px 0px 6vw lightblue;
+}
+
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+}
