@@ -2,12 +2,17 @@
     width:40vw;
     height: 40vh;
     margin: auto auto;
-    border: solid white 3px;
-    border-radius: 10px;
+    border-radius: 20px;
     padding: 1vw;
-    box-shadow: 0px 0px 6vw lightblue;
+    box-shadow: 0px 0px 6vw 3vw rgb(65,206,142);
+    margin-top: 20vh
 }
 
 .title{
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.full{
+    width: 100vw;
+    height: 100vh;
 }
